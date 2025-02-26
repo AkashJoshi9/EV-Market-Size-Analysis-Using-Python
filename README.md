@@ -55,7 +55,6 @@ The EV (Electric Vehicle) Market Size Data Analysis project aims to provide comp
 
 ### Conclusion
 The EV Market Size Data Analysis project provides valuable insights into the electric vehicle market, helping stakeholders make informed decisions. By leveraging Python for data analysis and visualization, this project aims to contribute to the understanding and advancement of the electric vehicle industry.
-``` ▋
 
 
 
